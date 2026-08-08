@@ -25,27 +25,22 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 # ==========================================================
-# DOWNLOAD NLTK
+# DOWNLOAD NLTK DATA
 # ==========================================================
 
-try:
+import nltk
 
-    nltk.data.find("tokenizers/punkt")
+resources = [
+    ("tokenizers/punkt", "punkt"),
+    ("tokenizers/punkt_tab", "punkt_tab"),
+    ("corpora/stopwords", "stopwords"),
+]
 
-except LookupError:
-
-    nltk.download("punkt")
-
-try:
-
-    nltk.data.find("corpora/stopwords")
-
-except LookupError:
-
-    nltk.download("stopwords")
-
-
-STOP_WORDS = set(stopwords.words("english"))
+for path, package in resources:
+    try:
+        nltk.data.find(path)
+    except LookupError:
+        nltk.download(package)
 
 
 # ==========================================================
