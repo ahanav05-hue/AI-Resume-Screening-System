@@ -1,0 +1,47 @@
+Software Engineer
+
+Responsibilities
+
+Develop scalable software solutions.
+
+Design efficient algorithms.
+
+Optimize application performance.
+
+Participate in code reviews.
+
+Maintain technical documentation.
+
+Required Skills
+
+Python
+
+Java
+
+SQL
+
+Git
+
+GitHub
+
+Data Structures
+
+Algorithms
+
+REST API
+
+OOP
+
+Linux
+
+Preferred Skills
+
+Docker
+
+AWS
+
+Kubernetes
+
+Flask
+
+React

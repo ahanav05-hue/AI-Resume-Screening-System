@@ -1,0 +1,35 @@
+Data Analyst
+
+Responsibilities
+
+Analyze business data.
+
+Prepare dashboards.
+
+Generate reports.
+
+Required Skills
+
+Python
+
+SQL
+
+Pandas
+
+NumPy
+
+Excel
+
+Power BI
+
+Statistics
+
+Machine Learning
+
+Preferred Skills
+
+Tableau
+
+AWS
+
+Data Visualization

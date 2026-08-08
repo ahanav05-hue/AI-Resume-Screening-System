@@ -1,0 +1,51 @@
+Python Developer
+
+Responsibilities
+
+• Develop and maintain Python applications.
+
+• Build REST APIs using Flask or Django.
+
+• Design and optimize SQL databases.
+
+• Write clean, maintainable, and well-documented code.
+
+• Collaborate with cross-functional teams.
+
+Required Skills
+
+• Python
+
+• Flask
+
+• SQL
+
+• HTML
+
+• CSS
+
+• JavaScript
+
+• Git
+
+• GitHub
+
+• REST API
+
+• OOP
+
+• Data Structures
+
+• Algorithms
+
+Preferred Skills
+
+• Docker
+
+• AWS
+
+• Linux
+
+• PostgreSQL
+
+• Unit Testing
