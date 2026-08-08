@@ -17,8 +17,7 @@ Features
 import re
 import nltk
 
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -53,7 +52,7 @@ def preprocess(text):
 
     text = re.sub(r"[^a-zA-Z ]", " ", text)
 
-    words = word_tokenize(text)
+    words = text.split()
 
     words = [
 
